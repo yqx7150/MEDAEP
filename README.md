@@ -15,7 +15,7 @@ MEDAEP- Multi-channels and Multi-models based  Autoencoding Priors for Grayscale
 ![](./figs/Fig1.png)
 
 ## Illustration of the MEDAEP network scheme
-![](./figs/fig2.png)
+![](./Fig2.png)
 
 ## Visual quality comparison of image deblurring on gray image “Boats”.  
 (Gaussian blur kernel size is 25, noisy level is 2.55)
