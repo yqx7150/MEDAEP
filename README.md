@@ -21,3 +21,24 @@ MEDAEP- Multi-channels and Multi-models based  Autoencoding Priors for Grayscale
 (Gaussian blur kernel size is 25, noisy level is 2.55)
 ![](./figs/Fig3.png)
 From Top to Bottom and from Left to Right: Ground-truth, blurred image,LevinSps, EPLL, IRCNN, DMSP, DPE, DAEP , EDAEP and MEDAEP.
+
+## [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8782831)
+    @article{li2019multi,
+    title={Multi-Channel and Multi-Model-Based Autoencoding Prior for Grayscale Image Restoration},
+    author={Li, Sanqian and Qin, Binjie and Xiao, Jing and Liu, Qiegen and Wang, Yuhao and Liang, Dong},
+    journal={IEEE Transactions on Image Processing},
+    volume={29},
+    pages={142--156},
+    year={2019},
+    publisher={IEEE}
+    }
+
+## Other Related Projects
+  * Highly Undersampled Magnetic Resonance Imaging Reconstruction using Autoencoding Priors  
+[<font size=5>**[Paper]**</font>](https://cardiacmr.hms.harvard.edu/files/cardiacmr/files/liu2019.pdf)  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/EDAEPRec)
+
+  * Denoising Auto-encoding Priors in Undecimated Wavelet Domain for MR Image Reconstruction  
+[<font size=5>**[Paper]**</font>](https://arxiv.org/ftp/arxiv/papers/1909/1909.01108.pdf)  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/WDAEPRec)
+
+  * Learning Priors in High-frequency Domain for Inverse Imaging Reconstruction  
+[<font size=5>**[Paper]**</font>](https://arxiv.org/ftp/arxiv/papers/1910/1910.11148.pdf)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/HFDAEP)
